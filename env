@@ -38,6 +38,14 @@
 # database.default.DBPrefix =
 # database.default.port = 3306
 
+# database.default.hostname = localhost
+# database.default.database = name_db
+# database.default.username = postgres
+# database.default.password = password
+# database.default.DBDriver = Postgre
+# # database.default.DBPrefix =
+# database.default.port = 5432
+
 # database.tests.hostname = localhost
 # database.tests.database = ci4_test
 # database.tests.username = root
